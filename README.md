@@ -161,7 +161,10 @@ The most challenging problem I solved while building this Healthcare website was
 
 ## Bonus Features Implemented
 Interactive Dashboard
+
 Developed a dashboard showing:
 Number of appointments
+
 Quick patient stats
+
 Navigation cards for faster access
