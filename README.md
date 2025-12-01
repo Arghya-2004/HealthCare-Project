@@ -157,13 +157,11 @@ heal-sym/
  
 ## Most Challenging Problem I Solved Recently
 The most challenging problem I solved while building this Healthcare website was getting the layout to look clean and consistent on all screen sizes without using any frameworks. Small CSS changes would fix one section but break another, so I had to patiently adjust the design until everything aligned properly. I also struggled with making the JavaScript form interactions smooth, especially input validation and updating the UI without causing layout shifts. At one point, the navigation and sections were overlapping, so I had to reorganize my CSS structure and rewrite parts of the script. Through these issues, I learned how important responsive design, clean code structure, and careful testing are in front-end development. Overall, solving this challenge improved both my confidence and my understanding of how real websites behave.
-⭐ Bonus Features Implemented
+
+
+## Bonus Features Implemented
 Interactive Dashboard
-
 Developed a dashboard showing:
-
 Number of appointments
-
 Quick patient stats
-
 Navigation cards for faster access
