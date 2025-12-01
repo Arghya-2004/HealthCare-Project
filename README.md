@@ -163,6 +163,7 @@ The most challenging problem I solved while building this Healthcare website was
 Interactive Dashboard
 
 Developed a dashboard showing:
+
 Number of appointments
 
 Quick patient stats
